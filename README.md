@@ -2,4 +2,4 @@
 
 #### Mom, I'm bored!
 
-[Live link]()
+[Live link](https://waiting-iota.vercel.app/)
